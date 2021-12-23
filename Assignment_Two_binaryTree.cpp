@@ -1,5 +1,5 @@
 /*******************************************************************************************
-* File Name       : assignment_2_binaryTree.cpp
+* File Name       : Assignment_Two_binaryTree.cpp
 * Description     : Implement a binary search tree and print the data of the nodes using recursive inorder traversal
 *                   and morris inorder traversal
 * Author          : Deep Shah (Student Id - 8750086)
