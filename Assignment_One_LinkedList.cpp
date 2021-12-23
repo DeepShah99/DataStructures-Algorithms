@@ -1,6 +1,6 @@
 
 /*******************************************************************************************
-* File Name          : Assignment_One_LL.c
+* File Name          : Assignment_One_LinkedLists.c
 * Description        : Prog8130 - Assignment 1: Linked Lists
 *   This program uses linked lists to hold and print a list of words
 *   organized by index number assosciated with each word. Each word can
